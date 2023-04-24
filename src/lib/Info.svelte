@@ -1,5 +1,5 @@
 <script>
-    import { fade, fly, slide } from 'svelte/transition';
+    import { fade, slide } from 'svelte/transition';
 
     let projects = [
         {title: "💫 kosmici.net", url: "https://kosmici.net"}

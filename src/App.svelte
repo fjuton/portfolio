@@ -1,11 +1,11 @@
 <script>
-    import { fade, fly, slide } from 'svelte/transition';
+    import { fade } from 'svelte/transition';
     import wjuton from './assets/untitled.png'
 
     import Info from './lib/Info.svelte';
     import Footer from './lib/Footer.svelte';
 
-    const scrollDown = (ev) => {
+    const scrollDown = () => {
         document.querySelector(".info").scrollIntoView({
             behavior: 'smooth',
         })
