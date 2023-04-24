@@ -17,8 +17,8 @@
 
 </style>
 
-<div class="flex w-[100vw] h-[100vh] select-none">
-    <div class="flex flex-col justify-center w-[40%] pl-10 bg-zinc-900 gap-3">
+<div class="flex flex-col md:flex-row w-[100vw] h-[100vh] select-none">
+    <div class="flex flex-col justify-center w-[100%] md:w-[40%] pl-10 bg-zinc-900 gap-3">
         <p class="text-gray-50">wjuton.dev</p>
         <p class="text-white font-semibold md:text-3xl xl:text-5xl text-left" transition:fade={{duration: 150}}>
             <a href="https://github.com/fjuton" target="_blank">Hi! 👋 I'm <span class="transition-all text-pink-500 shadow-pink-300 hover:text-pink-300 cursor-pointer">@wjuton</span></a>
@@ -31,7 +31,7 @@
             See more..
         </div>
     </div>
-    <div class="w-[60%] flex justify-center items-center h-full overflow-hidden bg-zinc-900 ">
+    <div class="w-[100%]  md:w-[60%] flex justify-center items-center h-full overflow-hidden bg-zinc-900 ">
         <img src={wjuton} class="rounded-full shadow-pink-500 drop-shadow-2xl transition-all " alt="" draggable="false" />
     </div>
 

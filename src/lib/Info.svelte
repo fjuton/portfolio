@@ -7,10 +7,9 @@
 
     let links = [
         {title: "Github", url: "https://github.com/fjuton"},
-        {title: "CFX.re", url: "https://github.com/wjuton"},
-        {title: "Github", url: "https://github.com/wjuton"},
-        {title: "Github", url: "https://github.com/wjuton"},
-        {title: "Github", url: "https://github.com/wjuton"},
+        {title: "Twitter", url: "https://twitter.com/wjuton"},
+        {title: "Wakatime", url: "https://wakatime.com/@wjuton"},
+        {title: "Discord", url: "https://discord.gg/xKHEdYn3cq"},
     ]
 
 </script>
