@@ -10,6 +10,7 @@
         {title: "Twitter", url: "https://twitter.com/wjuton"},
         {title: "Wakatime", url: "https://wakatime.com/@wjuton"},
         {title: "Discord", url: "https://discord.gg/xKHEdYn3cq"},
+        {title: "Last.fm", url: "https://www.last.fm/user/mrceo111"}
     ]
 
 </script>
