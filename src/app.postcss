@@ -1,6 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&display=swap');
-
 @tailwind base;
+
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: 
+        url('./jbfont/fonts/webfonts/JetBrainsMono-Regular.woff2') format('woff2'),
+        url('./jbfont/fonts/webfonts/JetBrainsMono-Medium.woff2') format('woff2'),
+        url('./jbfont/fonts/webfonts/JetBrainsMono-SemiBold.woff2') format('woff2');
+    /* no idea if it will load them all this way but anyway  */
+}
+
 :root {
 	font-family: 'JetBrains Mono', monospace;
 	overflow-x: hidden;

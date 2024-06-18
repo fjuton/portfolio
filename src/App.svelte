@@ -13,10 +13,6 @@
 
 </script>
 
-<style>
-
-</style>
-
 <div class="flex md:flex-row w-[100vw] h-[100vh] select-none">
     <div class="flex flex-col justify-center w-[100%] md:w-[40%] pl-10 bg-zinc-900 gap-3">
         <p class="text-gray-50">wjuton.dev</p>
